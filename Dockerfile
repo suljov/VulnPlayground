@@ -1,5 +1,8 @@
 FROM richarvey/nginx-php-fpm:latest
 
+# Root flag
+RUN echo "Concrats, you found the flag!" > /root/root.txt
+
 # Create necessary directories
 RUN mkdir -p /run/nginx
 RUN mkdir -p /var/www/html/uploads /var/www/html/conf/nginx/ /var/www/html/scripts /data
