@@ -1,7 +1,6 @@
 # Hackable-website
 A simple and portable hackable website in a docker for a very easy beginner CTF box or for hacking demo purposes
 
-![](https://as1.ftcdn.net/v2/jpg/05/55/16/16/1000_F_555161647_BPPlcB9ge7ENfO1mQYQkB4EAyVCtNLPd.jpg)
 
 ## How to install
 
