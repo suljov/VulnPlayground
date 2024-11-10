@@ -2,7 +2,7 @@
 
 ```
 cd VulnPlayground 
-cd magic-photos
+cd wizard-sorcerer
 sudo docker build -t wizard-sorcerer .
 sudo docker run -d -p 80:80 --name wizard-sorcerer wizard-sorcerer
 ```
