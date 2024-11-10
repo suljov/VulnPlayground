@@ -16,5 +16,7 @@ A versatile collection of hackable environments hosted in Docker containers, des
 | Name | System | Difficulty |
 | ---- | ---- | ---- |
 | [Magic photos](https://github.com/suljov/VulnPlayground/tree/main/magic-photos) | 🐧 | Easy |
+| [Wizard sorcerer](https://github.com/suljov/VulnPlayground/tree/main/wizard-sorcerer) | 🐧 | Easy |
+
 
 
