@@ -1,3 +1,9 @@
+## Are you a true sorcerer?
+Only a true sorcerer can find it. 
+
+This box is completed when the flag is found. 
+Flag  structure is: FLAG{test}
+
 ## How to install
 
 ```
