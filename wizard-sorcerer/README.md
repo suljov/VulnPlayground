@@ -3,7 +3,7 @@ Only a true sorcerer can find it.
 
 This box is completed when the flag is found. 
 
-Flag  structure is: FLAG{test}
+Flag  structure is: FLAG{test_string}
 
 ## How to install
 
