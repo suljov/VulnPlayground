@@ -3,7 +3,7 @@
 
 ### Can you see the way to the flag?
 
-# Hackable-website
+# Hackable challenges
 
 
 A simple and portable hackable websites in a docker for a very easy beginner CTF box or for hacking demo purposes. 
