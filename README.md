@@ -19,7 +19,7 @@ The box is completed when you either have shell (no privesc needed if nothing el
 | ---- | ---- | ---- |
 | [Magic photos](https://github.com/suljov/VulnPlayground/tree/main/magic-photos) | 🐧 | Easy |
 | [Wizard sorcerer](https://github.com/suljov/VulnPlayground/tree/main/wizard-sorcerer) | 🐧 | Easy |
-| [Pass the kee](https://github.com/suljov/VulnPlayground/tree/main/pass-the-kee) | 🐧 / 🪟 | Easy |
+| [Pass the kee](https://github.com/suljov/VulnPlayground/tree/main/pass-the-kee) | 🐧 / 🪟 | Easy/Medium |
 
 
 
