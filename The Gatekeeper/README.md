@@ -9,4 +9,4 @@ Only those who see the unseen may pass.
 
 This box is completed when you speak the word that opens the path.
 
-Flag structure is: FLAG{the_word}
+Flag structure is: FLAG{test_string}
