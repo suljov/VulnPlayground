@@ -1,3 +1,6 @@
+# Can you speak the silent word?
+----
+
 The old terminal flickers. A prompt appears.  
 A voice encoded in bytes asks for *the word*.
 
