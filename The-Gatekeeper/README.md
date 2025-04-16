@@ -12,6 +12,6 @@ Only those who see the unseen may pass.
 
 `The dragon might show you the way`
 
-This box is completed when you speak the word that opens the path.
+This box is completed when you speak the word that opens the path to the flag.
 
 Flag structure is: FLAG{test_string}
